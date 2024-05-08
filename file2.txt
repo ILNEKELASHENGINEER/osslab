@@ -1,0 +1,4 @@
+hello this is file from branch2
+
+before merging
+
